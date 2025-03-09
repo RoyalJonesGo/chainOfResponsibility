@@ -15,8 +15,4 @@ Develop an automated waste management system that uses the chain of responsibili
    - The appropriate waste collector in the chain should handle the disposal based on the type and capacity of the waste container.
 4. **Validation**: Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
 
-## Solution
-Your solution should include the following in your GitHub repository:
-- **Problem Statement**
-- **UML Diagram**
-- **Solution Code**
+   ![UML Class Diagram](https://github.com/user-attachments/assets/d65a82b8-e08c-4e44-a06a-6058f0e77a9e)
